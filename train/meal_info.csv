@@ -1,0 +1,52 @@
+meal_id,category,cuisine,id2
+1207,Beverages,Continental,1
+1230,Beverages,Continental,1
+2322,Beverages,Continental,1
+1248,Beverages,Indian,2
+2139,Beverages,Indian,2
+2631,Beverages,Indian,2
+1062,Beverages,Italian,3
+1778,Beverages,Italian,3
+2707,Beverages,Italian,3
+1885,Beverages,Thai,4
+1993,Beverages,Thai,4
+2539,Beverages,Thai,4
+1247,Biryani,Indian,5
+1770,Biryani,Indian,5
+1902,Biryani,Indian,5
+1543,Desert,Indian,6
+2304,Desert,Indian,6
+2492,Desert,Indian,6
+1198,Extras,Thai,7
+1311,Extras,Thai,7
+1803,Extras,Thai,7
+1571,Fish,Continental,8
+2104,Fish,Continental,8
+2956,Fish,Continental,8
+1525,Other Snacks,Thai,9
+2704,Other Snacks,Thai,9
+2760,Other Snacks,Thai,9
+1216,Pasta,Italian,10
+2126,Pasta,Italian,10
+2306,Pasta,Italian,10
+1558,Pizza,Continental,11
+1962,Pizza,Continental,11
+2581,Pizza,Continental,11
+1109,Rice Bowl,Indian,12
+1727,Rice Bowl,Indian,12
+2290,Rice Bowl,Indian,12
+2490,Salad,Italian,13
+2569,Salad,Italian,13
+2664,Salad,Italian,13
+1754,Sandwich,Italian,14
+1971,Sandwich,Italian,14
+2826,Sandwich,Italian,14
+1445,Seafood,Continental,15
+2444,Seafood,Continental,15
+2867,Seafood,Continental,15
+1438,Soup,Thai,16
+1847,Soup,Thai,16
+2494,Soup,Thai,16
+1878,Starters,Thai,17
+2577,Starters,Thai,17
+2640,Starters,Thai,17
